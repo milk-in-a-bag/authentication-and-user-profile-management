@@ -4,6 +4,8 @@
 /a_core/__pycache__/
 venv/
 
+.git_backup
+
 # Ignore static files directory (if managed separately)
 /staticfiles/
 
